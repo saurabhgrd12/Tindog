@@ -1,0 +1,108 @@
+#title
+{
+    background-color: #ef8172;
+    color: white;
+}
+#features
+{
+    padding: 7% 15%;
+    text-align: center;
+    padding: 10%;
+    
+}
+h1
+{
+    
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    size: 3.5rem;
+}
+/* .container-fluid
+{
+    padding: 3% 15%
+} */
+body
+{
+    font-family: montserrat;
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.navbar
+{
+    padding:0 0 4.5rem 0;
+
+}
+.nav-item
+{
+    margin: 0 18px;
+}
+.nav-link
+{
+    font-family: 'Klee One', cursive;
+    font-weight: lighter;
+}
+.download-button
+{
+    margin: 5% 3% 5% 0;
+}
+.title-image
+{
+    width: 50%;
+    transform: rotate(25deg);
+}
+p
+{
+    color: #8f8f8f;
+}
+.icon
+{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover
+{
+    color: #ff4668;
+}
+#testimonials
+{
+    background-color: #ef8172;
+    font-family: Montserrat;
+    text-align: center;
+    color: white;
+    margin:0;
+    padding: 5% 4%;
+}
+.testonomial-image
+{
+    border-radius: 100%;
+    width: 15%;
+}
+#press
+{
+    background-color: #ef8172;
+    margin-top: 0;
+    text-align: center;
+}
+.press-images
+{
+    width: 20%;
+    padding: 0px 40px;
+
+}
+.gogo
+{
+    border-radius: 100%;
+    width: 15%;
+}
+.fix
+{
+   margin-bottom: 57px;
+}
+#pricing
+{
+    text-align: center;
+    margin-top: 30px;
+}
